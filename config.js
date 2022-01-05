@@ -30,7 +30,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: 'Home',
       url: 'https://uptime.009898.xyz/'
     },
     {
