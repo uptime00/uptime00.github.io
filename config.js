@@ -34,8 +34,8 @@ window.Config = {
       url: 'https://uptime.009898.xyz/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: 'Blog',
+      url: 'https://009898.xyz/'
     }
   ]
 };
